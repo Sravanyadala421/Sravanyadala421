@@ -3,9 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravanyadala421" alt="sravanyadala421" /></a> </p>
 
+- 🔭 I’m currently working on **Backend Tools**
+
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Sravanyadala421)
+- 👯 I’m looking to collaborate on **New ideas**
+
+- 🤝 I’m looking for help with **Reactjs**
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Sravanyadala421)
 
 - 📫 How to reach me **sravanyadala7@gmail.com**
 
