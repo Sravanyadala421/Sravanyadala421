@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravanyadala421" alt="sravanyadala421" /></a> </p>
 
+- 🌱 I’m currently learning **Typescript**
+
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Sravanyadala421)
+
 - 📫 How to reach me **sravanyadala7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
