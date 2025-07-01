@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sravan Kumar Yadala</h1>
 <h3 align="center"> Full-Stack Developer </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravanyadala421" alt="sravanyadala421" /></a> </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=sravanyadala421&theme=tokyonight&no-frame=true&row=1&column=8&margin-w=10&title=Repositories,Commits,Followers,Stars,Issues,PullRequest,Experience,Reviews" alt="GitHub Trophies - Tokyo Night Theme" />
+  </a>
+</p>
+
+
+
 
 - 🔭 I’m currently working on **Backend Tools**
 
